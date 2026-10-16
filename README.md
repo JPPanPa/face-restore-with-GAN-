@@ -1,11 +1,9 @@
 # VN Old Portrait Restoration
 
-> Đồ án tốt nghiệp cử nhân — Trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội
 
 **Tên đề tài**: Nghiên cứu và phát triển hệ thống phục chế ảnh chân dung cũ dựa trên học sâu, kết hợp Real-ESRGAN, GFPGAN và mô-đun tăng cường khuôn mặt dựa trên Transformer với chiến lược fine-tuning đa giai đoạn và học thích nghi suy giảm.
 
-**Sinh viên**: Đặng Thành Tựu — MSSV 20225951
-**GVHD**: TS. Trịnh Văn Chiến
+
 
 ---
 
@@ -181,12 +179,3 @@ python scripts/verify_forward_paths.py --stage2 ... --gfpgan ... --celeba ...
 - [ ] **Real VN** (không GT): NIQE, MUSIQ — sau khi crawl Flickr/manhhai
 - [ ] **User study**: blind A/B test 15–20 người
 
----
-
-## License
-
-MIT (code) — datasets giữ license của nguồn gốc.
-
-## Liên hệ
-
-Đặng Thành Tựu — dangtuu567@gmail.com
