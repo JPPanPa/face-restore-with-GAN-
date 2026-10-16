@@ -24,14 +24,6 @@ phục chế ảnh chân dung cũ trên máy cá nhân.
 
 ## 2. Cài đặt môi trường
 
-### Bước 1 — Tải mã nguồn
-
-Giải nén file `vn-old-portrait-restoration.zip` vào thư mục bạn muốn:
-
-```bash
-unzip vn-old-portrait-restoration.zip
-cd vn-old-portrait-restoration
-```
 
 ### Bước 2 — Tạo môi trường ảo Python
 
