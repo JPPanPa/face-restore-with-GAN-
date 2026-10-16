@@ -185,10 +185,3 @@ quay lại thực hiện rồi restart Python kernel.
 khác (`netstat -ano | findstr :7860` trên Windows). Có thể đổi port bằng tham số
 `--port 7870` khi chạy `demo_gradio.py`.
 
-## 7. Liên hệ
-
-Mọi thắc mắc về cài đặt và sử dụng có thể liên hệ:
-
-- **Tác giả**: Đặng Thành Tựu (MSSV 20225951)
-- **Email**: tuu.dt225951@sis.hust.edu.vn
-- **Giảng viên hướng dẫn**: TS. Trịnh Văn Chiến --- chiền.trinhvan@hust.edu.vn
